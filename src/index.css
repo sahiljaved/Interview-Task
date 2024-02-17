@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #e3516e;
+  height: 90vh;
+}
+#root {
+  border-radius: 50%;
+  border: 200px solid transparent;
+  border-top-color: #f7f3d7;
+  border-right-color: #51b5a9;
+  border-bottom-color: #fade8b;
+  transform: rotate(-135deg);
+}
+
